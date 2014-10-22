@@ -1,7 +1,7 @@
 buttst01
 ========
 
-Simple Scratch Loop that executes until the Red "Enter" Button is pressed.  
+Simple  Loop that executes until the Red "Enter" Button is pressed.  
 
 This is how to poll the Enter Button to end an applicatino in Scratch.  
 
@@ -10,7 +10,7 @@ This is how to poll the Enter Button to end an applicatino in Scratch.
 Type              : Scratch
 Version           : 01.0
 Author            : myke predko
-Firmware          : 41
+Firmware          : 42
 ```
 
 ### Release History:
